@@ -16,7 +16,12 @@ Hi there 👋! Nice to know you, I'm Willy. I am currently pursuing a Master deg
     </a>
   </li>
   <li>
-    
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="16" height="16" />
+    </div>
+    <a href="mailto:alexanderwillyj@gmail.com" style="margin-left: 8px;">
+      alexanderwillyj@gmail.com
+    </a>    
   </li>
   <li>
     
