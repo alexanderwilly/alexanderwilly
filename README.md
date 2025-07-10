@@ -11,8 +11,8 @@ Hi there 👋! Nice to know you, I'm Willy. I am currently pursuing a Master deg
 <ul>
   <li>
     <a href="https://www.linkedin.com/in/alexanderwillyj/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24" />
-      LinkedIn
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16" />
+      alexanderwillyj
     </a>
   </li>
   <li>
