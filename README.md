@@ -21,10 +21,9 @@ Hi there 👋! Nice to know you, I'm Willy. I am currently pursuing a Master deg
       alexanderwillyj@gmail.com
     </a>    
   </li>
-  <li>
-    
-  </li>
 </ul>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
