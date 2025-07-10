@@ -10,11 +10,8 @@ Hi there 👋! Nice to know you, I'm Willy. I am currently pursuing a Master deg
 ## Let's Connect! 🌐
 <ul>
   <li>
-    <a href="https://www.linkedin.com/in/alexanderwillyj/" height="16">
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16" />
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge" height="16" />
-      </div>
+    <a href="https://www.linkedin.com/in/your-username/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16" />
       Alexander Willy J
     </a>
   </li>
