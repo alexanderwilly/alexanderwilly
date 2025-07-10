@@ -9,7 +9,7 @@ Hi there 👋! Nice to know you, I'm Willy. I am currently pursuing a Master deg
 
 ## Let's Connect! 🌐
 <ul>
-  <li>
+  <li style = 'display:flex; flex: 1; justify-content:center; align-items:center;'>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16" />
     <a href="https://www.linkedin.com/in/alexanderwillyj/">
       alexanderwillyj
