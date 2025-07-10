@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## About Me
+Hey! Nice to know you, I'm Willy. I am currently pursuing a Master degree in Artificial Intelligence at Singapore Management University (SMU). I'm currently exploring <b>machine learning</b>, <b>cybersecurity</b>, and <b>software engineering</b> with the goal of building awesome, high-quality products. I'm always looking to grow professionally, whether working individually or as part of a team. I’m motivated, reliable, and excited to contribute to meaningful projects that move things forward.
+
 <!--
 **alexanderwilly/alexanderwilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
