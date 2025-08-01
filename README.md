@@ -6,6 +6,12 @@ Hi there 👋! Nice to know you, I'm Willy. I am currently pursuing a Master deg
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## My GitHub Activities 💻
+<img height = "200" src = "https://github-readme-stats.vercel.app/api?username=alexanderwilly&show_icons=true&theme=transparent" />
+<a href = "https://github.com/alexanderwilly/portfolio">
+  <img height = "200" src = "https://github-readme-stats.vercel.app/api/pin/?username=alexanderwilly&repo=portfolio">
+</a>
+
 
 ## Let's Connect! 🌐
 <ul>
