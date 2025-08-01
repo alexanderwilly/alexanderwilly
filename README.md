@@ -7,7 +7,7 @@ Hi there 👋! Nice to know you, I'm Willy. I am currently pursuing a Master deg
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Personal Website 💻
-Check out my portfolio website <a href="https://alexanderwilly.github.io/portfolio/">here</a>!
+Check out my portfolio website <a href="https://alexanderwilly.github.io/portfolio/">here</a>! <br/>
 <a href = "https://github.com/alexanderwilly/portfolio">
   <img height = "200" src = "https://github-readme-stats.vercel.app/api/pin/?username=alexanderwilly&repo=portfolio">
 </a>
