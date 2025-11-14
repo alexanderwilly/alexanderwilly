@@ -11,12 +11,6 @@ Check out my portfolio website <a href="https://alexanderwilly.vercel.app/">here
 <a href = "https://github.com/alexanderwilly/website">
   <img height = "200" src = "https://github-readme-stats.vercel.app/api/pin/?username=alexanderwilly&repo=website">
 </a>
-<a href = "https://github.com/ajjang001/ActiveAxis">
-  <img height = "200" src = "https://github-readme-stats.vercel.app/api/pin/?username=ajjang001&repo=ActiveAxis">
-</a>
-<a href = "https://github.com/alexanderwilly/PetHeaven">
-  <img height = "200" src = "https://github-readme-stats.vercel.app/api/pin/?username=alexanderwilly&repo=PetHeaven">
-</a>
 
 
 
