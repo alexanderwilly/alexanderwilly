@@ -8,9 +8,9 @@ Hi there and thank you for visiting me 👋! Nice to know you, I'm Willy. I am c
 
 ## Pinned Projects 📌
 Check out my portfolio website <a href="https://alexanderwilly.vercel.app/">here</a>! <br/><br/>
-<a href = "https://github.com/alexanderwilly/website">
+<!-- <a href = "https://alexanderwilly.vercel.app/">
   <img height = "200" src = "https://github-readme-stats.vercel.app/api/pin/?username=alexanderwilly&repo=website">
-</a>
+</a> -->
 
 
 
