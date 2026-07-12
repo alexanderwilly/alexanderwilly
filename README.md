@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub!
 
-Hi there and thank you for visiting me 👋! Nice to know you, I'm Willy. I have a Masters degree in Artificial Intelligence with the goal of building awesome, high-quality products and applications. I'm always looking to grow professionally, whether working individually or as part of a team.
+Hi there and thank you for visiting me 👋! Nice to know you, I'm Willy. I have a Masters degree in Artificial Intelligence with a goal of building awesome, high-quality software applications. I'm always looking to grow professionally, whether working individually or as part of a team.
 
 📖 I am hoping to learn something new / in-depth about:
 <ol>
@@ -12,7 +12,7 @@ Hi there and thank you for visiting me 👋! Nice to know you, I'm Willy. I have
     <br>
     <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
     <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white"/>
-    <img title="LlamaIndex" width="50px" src="./images/llamaindex.png" />
+    <img title="LlamaIndex" width="80px" src="./images/llamaindex.png" />
     <br/><br/>
   </li>
 
@@ -44,14 +44,14 @@ Hi there and thank you for visiting me 👋! Nice to know you, I'm Willy. I have
     <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
     <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
     <img src="https://img.shields.io/badge/mlflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
-    <img title="SonarQube" width="50px" src="./images/sonarqube.png" />
+    <img title="SonarQube" width="80px" src="./images/sonarqube.png" />
     <br/><br/>
   </li>
   <li>
     ☁️ Cloud Services
     <br/>
     <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-blue.svg"><br>
-    <img title="AWS" width="50px" src="./images/aws.png" />
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
     <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
     <br/>
@@ -65,9 +65,43 @@ Hi there and thank you for visiting me 👋! Nice to know you, I'm Willy. I have
     <br/>
     <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-blue.svg"><br>
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
-    <img title="PySpark" width="50px" src="./images/pyspark.png" />
+    <img title="PySpark" width="80px" src="./images/pyspark.png" />
   </li>
 </ol>
+      
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <h3>🚀 Check out my portfolio website <a href="https://alexanderwilly.vercel.app/">here</a>!</h3>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="22" height="22" />
+          &nbsp;
+          Let's 
+          <a href="https://www.linkedin.com/in/alexanderwillyj/">
+            connect
+          </a>!
+        </h3>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="22" height="22" />
+          &nbsp;
+          Email me at: 
+          <a href="mailto:alexanderwillyj@gmail.com">
+            alexanderwillyj@gmail.com
+          </a>!
+        </h3>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,10 +140,10 @@ Hi there and thank you for visiting me 👋! Nice to know you, I'm Willy. I have
     <tr>
       <td><b>AI Frameworks</b></td>
       <td>
-        <img title="OpenAI" width="50px" src="./images/openai.png" />
+        <img title="OpenAI" width="80px" src="./images/openai.png" />
         <img src="https://img.shields.io/badge/Anthropic-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=F4F0E6" alt="Anthropic">
         <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-        <img title="Unsloth" width="50px" src="./images/unsloth.png" />
+        <img title="Unsloth" width="80px" src="./images/unsloth.png" />
         <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="HuggingFace">
         <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
       </td>
@@ -120,50 +154,35 @@ Hi there and thank you for visiting me 👋! Nice to know you, I'm Willy. I have
         <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-        <img title="Chroma" width="50px" src="./images/chroma.png" />
+        <img title="Chroma" width="80px" src="./images/chroma.png" />
       </td>
     </tr>
     <tr>
       <td><b>Cloud Platforms</b></td>
       <td>
-        <img title="AWS" width="50px" src="./images/aws.png" />
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
         <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
         <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Data Engineering</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+        <img title="PySpark" width="80px" src="./images/pyspark.png" />
       </td>
     </tr>
     <tr>
       <td><b>Data Analytics</b></td>
       <td>
-        <img title="Tableau" width="50px" src="./images/tableau.png" />
+        <img title="Tableau" width="80px" src="./images/tableau.png" />
       </td>
     </tr>
     
   </tbody>
 </table>
-
-## Pinned Projects 📌
-Check out my portfolio website <a href="https://alexanderwilly.vercel.app/">here</a>! <br/><br/>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## Let's Connect! 🌐
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/alexanderwillyj/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16" />
-      Alexander Willy J
-    </a>
-  </li>
-  <li>
-    <a href="mailto:alexanderwillyj@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="16" height="16" />
-      alexanderwillyj@gmail.com
-    </a>    
-  </li>
-</ul>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
