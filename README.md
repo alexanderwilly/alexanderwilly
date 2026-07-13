@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub!
 
-Hi there and thank you for visiting me 👋! Nice to know you, I'm Willy. I have a Masters degree in Artificial Intelligence with a goal of building awesome, high-quality software applications. I'm always looking to grow professionally, whether working individually or as part of a team.
+Hi there and thank you for visiting me 👋! Nice to know you, I'm **Willy**. I have a Masters degree in Artificial Intelligence with a goal of building awesome, high-quality software applications. I'm always looking to grow professionally, whether working individually or as part of a team.
 
 📖 I am hoping to learn something new / in-depth about:
 <ol>
@@ -24,10 +24,14 @@ Hi there and thank you for visiting me 👋! Nice to know you, I'm Willy. I have
     <img src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
     <img src="https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <br/>
     <img src="https://img.shields.io/badge/STATUS-TO%20DO-purple.svg">
     <br/>
     <img src="https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
     <br/><br/>
   </li>
   <li>
@@ -106,7 +110,16 @@ Hi there and thank you for visiting me 👋! Nice to know you, I'm Willy. I have
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## My Tech Stack 
+## My Tech Stack
+
+### I primarily code in:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### But I have experience using:
 
 <table>
   <thead>
@@ -134,6 +147,7 @@ Hi there and thank you for visiting me 👋! Nice to know you, I'm Willy. I have
         <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
       </td>
     </tr>
@@ -180,20 +194,13 @@ Hi there and thank you for visiting me 👋! Nice to know you, I'm Willy. I have
         <img title="Tableau" width="80px" src="./images/tableau.png" />
       </td>
     </tr>
+    <tr>
+      <td><b>Project Management</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+        <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear">
+      </td>
+    </tr>
     
   </tbody>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
