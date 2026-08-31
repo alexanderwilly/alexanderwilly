@@ -70,6 +70,14 @@ Hi there and thank you for visiting me 👋! Nice to know you, I'm **Willy**. I 
     <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-blue.svg"><br>
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
     <img title="PySpark" width="80px" src="./images/pyspark.png" />
+    <br/><br/>
+  </li>
+  <li>
+    🤖 RPA & Automation
+    <br/>
+    <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-blue.svg"><br>
+    <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+    <br/><br/>
   </li>
 </ol>
       
@@ -119,7 +127,7 @@ Hi there and thank you for visiting me 👋! Nice to know you, I'm **Willy**. I 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### But I have experience using:
+### I have experience using:
 
 <table>
   <thead>
